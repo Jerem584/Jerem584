@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 ```text
 Arma 3, V2,
-also setup'ed a dedicated with 3 diff servers back,front,api ;)
+Fivem R0 Spoofy spoofer
 ```
 <!--END_SECTION:waka-->
 
