@@ -15,9 +15,9 @@
 - 🔭 I’m currently working on ghost.solutions, the best game cheat :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m collaborating with other Developers :wink:
-- 🥅 2021 Goals: money
+- 🥅 2022 Goals: money
 - 💬 Ask me about anything, I won't answer :smile:
-- 📬 How to reach me: TheoRE#1337 - but please don't
+- 📬 How to reach me: Theo.#1337 - but please don't
 - ⚡ Fun fact: I love coding :raised_hands:
 
 <br>
@@ -41,8 +41,9 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Arma 3, V2,
-Fivem R0 Spoofy spoofer
+Kernel MF (irp; hijack driver instance; trick the ntfs driver)
+Arma RP Project (lots of work)
+
 ```
 <!--END_SECTION:waka-->
 
