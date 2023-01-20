@@ -12,13 +12,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Developer
-- 🔭 I’m currently working on ghost.solutions, the best game cheat :grin:
-- 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m collaborating with other Developers :wink:
-- 🥅 2022 Goals: money
-- 💬 Ask me about anything, I won't answer :smile:
+- 🥅 2023 Goals: money
 - 📬 How to reach me: Theo.#1337 - but please don't
-- ⚡ Fun fact: I love coding :raised_hands:
+- ⚡ Fun fact: I love reversing :raised_hands:
 
 <br>
 <br>
@@ -41,9 +38,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Kernel MF (irp; hijack driver instance; trick the ntfs driver)
-Arma RP Project (lots of work)
-
+Reversing a bunch of things
 ```
 <!--END_SECTION:waka-->
 
