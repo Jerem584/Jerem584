@@ -14,7 +14,7 @@
 ### I am a Developer
 - 👯 I’m collaborating with other Developers :wink:
 - 🥅 2023 Goals: work in the day not  at night
-- 📬 How to reach me: Theo.#1337
+- 📬 How to reach me: theoxor
 - ⚡ Fun fact: I love reversing and coding :raised_hands:
 
 <br>
